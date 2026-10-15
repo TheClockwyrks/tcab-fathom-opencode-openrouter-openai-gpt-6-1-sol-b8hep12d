@@ -1,0 +1,11 @@
+[[media]]
+file = "kindle-dive.json.gz"
+name = "A light, a pulse, a pursuit"
+
+[[media]]
+file = "kindle.png"
+name = "Glimpses in the dark"
+
+[[media]]
+file = "title.png"
+name = "Welcome to the deep"
